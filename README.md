@@ -1,25 +1,36 @@
 # Dell Technologies Request & Resource Management Web Application
 
-## 🖥️ 50.003 Elements of Software Construction Project - TEAM 4
+# Resource Management Application  
 
-| Name                    |   ID    | Roles                 |
-| :---------------------- | :-----: | :-------------------- |
-| Megha Pusti             | 1007128 | Front-End Development |
-| Vancence Ho             | 1007239 | Full-Stack Development|
-| Koo Rou Zhen            | 1007038 | Back-End Development  |
-| Swasti Arya             | 1007235 | Front-End Development |
-| Hetavi Shah             | 1007034 | Front-End Development |
-| Shrinidhi Arul Prakasam | 1007007 | Front-End Development |
+An enterprise-grade **resource management web app** built for Dell Technologies to streamline trainer scheduling, workshop requests, and leave management. The app improves efficiency by replacing manual tracking with automated workflows, data visualization, and real-time updates.  
 
-### 🚀 Getting Started
+---
 
-#### Prerequisities
+## 🚀 Features  
+- 📅 **Workshop Scheduling** – Trainers can request and manage workshops  
+- 📝 **Leave Management** – Simple submission and approval workflow  
+- 📊 **Dashboard & Analytics** – Visualize trainer availability and resource usage  
+- 🔍 **Smart Filtering & Search** – Quickly find workshops by type, date, or status  
+- 📂 **Calendar View** – Intuitive scheduling interface for trainers and admins  
 
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [Docker](https://www.docker.com/)
-- [Git](https://git-scm.com/)
+---
+
+## 🛠️ Tech Stack  
+- **Frontend**: React, Tailwind CSS  
+- **Backend**: Node.js, Express  
+- **Database**: MongoDB  
+- **Tools & Libraries**: GitHub, REST APIs  
+
+---
+
+
+## ⚙️ Installation & Setup  
+
+Clone the repository:  
+```bash
+git clone https://github.com/hetavi4/Resource-Management-App.git
+cd Resource-Management-App
+
 
 #### Installation
 
